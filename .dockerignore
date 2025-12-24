@@ -1,0 +1,16 @@
+.git
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+build/
+dist/
+.wheels/
+*.egg-info/
+data/
+notebooks/
+.DS_Store
+*/.pytest_cache

@@ -1,0 +1,2 @@
+# Keep PyTorch out of requirements because base images provide it
+numpy
