@@ -1,5 +1,5 @@
-# Baseline (unoptimized) Dockerfile
-# Intentionally uses the devel image and installs build tools at runtime
+# Baseline Dockerfile
+
 FROM pytorch/pytorch:2.1.0-cuda12.1-cudnn8-devel
 
 WORKDIR /app
